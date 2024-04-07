@@ -14,5 +14,13 @@
     "skills": ["Python", "ML"],
     "demo": "https://github.com/EwanStanich/GestureTracking",
     "source": "https://github.com/EwanStanich/GestureTracking"
+  },
+  {
+    "title": "This website",
+    "imageSrc": "projects/websiteImage.png",
+    "description": "I built this website with React to showcase myself and have a place to store a portfolio.",
+    "skills": ["React", "Javascript", "CSS", "HTML"],
+    "demo": "/",
+    "source": "https://github.com/EwanStanich/Portfolio-Website"
   }
 ]

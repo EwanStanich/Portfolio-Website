@@ -40,7 +40,7 @@ export const About = () => {
               <h3>Backend Developer</h3>
               <p>
                 I also have experience working on large APIs to implement new
-                functionalities
+                endpoints and functionalities
               </p>
             </div>
           </li>

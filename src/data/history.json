@@ -5,8 +5,8 @@
     "startDate": "Jan, 2023",
     "endDate": "Present",
     "experiences": [
-      "Worked on the QSL app using Xamarin Forms",
-      "Worked on web projects using Angular"
+      "Worked features live in QSL app, used by roughly a thousand Queensland farmers",
+      "Worked on web projects using Angular, including the implementation of a Paypal payment system"
     ],
     "imageSrc": "history/dappersImage2.png",
     "url": "https://www.dappers.com.au/"
