@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Hen Hustle Hoedown",
+    "imageSrc": "projects/HHH2Image.png",
+    "description": "A fun puzzle game made in Godot with multiple levels, each with different mechanics. *Gdscript is very similar to python.",
+    "skills": ["Gdscript", "OOP"],
+    "demo": "https://e1andonly.itch.io/hen-hustle-hoedown",
+    "source": "https://github.com/EwanStanich/HenHustleHoedown"
+  },
+  {
+    "title": "Gesture Tracking",
+    "imageSrc": "projects/trackingImage.png",
+    "description": "A program that collects input data and uses neural networks to train a model and output predictions in realtime.",
+    "skills": ["Python", "ML"],
+    "demo": "https://github.com/EwanStanich/GestureTracking",
+    "source": "https://github.com/EwanStanich/GestureTracking"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Intern Software Engineer",
+    "organisation": "Dappers Software",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on the QSL app using Xamarin Forms",
+      "Worked on web projects using Angular"
+    ],
+    "imageSrc": "history/dappersImage2.png",
+    "url": "https://www.dappers.com.au/"
+  }
+]

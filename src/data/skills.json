@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": "Gdscript",
+    "imageSrc": "skills/gdscript.png"
+  },
+  {
+    "title": "MATLAB",
+    "imageSrc": "skills/matlab.png"
+  },
+  {
+    "title": ".NET MAUI",
+    "imageSrc": "skills/maui.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "R",
+    "imageSrc": "skills/R.png"
+  },
+  {
+    "title": "Xamarin",
+    "imageSrc": "skills/xamarin.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "React Native",
+    "imageSrc": "skills/reactnative.png"
+  }
+]
