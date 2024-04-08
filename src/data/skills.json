@@ -42,5 +42,13 @@
   {
     "title": "React Native",
     "imageSrc": "skills/reactnative.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
   }
 ]
