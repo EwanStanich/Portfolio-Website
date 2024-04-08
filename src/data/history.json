@@ -6,7 +6,9 @@
     "endDate": "Present",
     "experiences": [
       "Worked on features live in the QSL (Queensland Sugar Limited) app, used by roughly a thousand Queensland farmers",
-      "Worked on web projects using Angular, including the implementation of a Paypal payment system"
+      "Worked on web projects using Angular, including the implementation of a Paypal payment system",
+      "Implemented Agile methodology for project planning and execution, involving sprint planning sessions, daily stand-up meetings, and user story development",
+      "Actively engaged in feature testing across projects to ensure functionality and detect issues prior to deployment"
     ],
     "imageSrc": "history/dappersImage2.png",
     "url": "https://www.dappers.com.au/"
