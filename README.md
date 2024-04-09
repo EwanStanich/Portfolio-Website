@@ -1,3 +1,5 @@
+The website can be opened at https://beautiful-melomakarona-a0e252.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
