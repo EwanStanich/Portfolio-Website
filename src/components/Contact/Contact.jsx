@@ -26,7 +26,7 @@ export const Contact = () => {
           </li>
         </a>
         <a
-          href="https://www.linkedin.com/in/ewan-stanich-06047921a/"
+          href="https://www.linkedin.com/in/ewan-stanich/"
           className={styles.button}
         >
           <li className={styles.link}>
